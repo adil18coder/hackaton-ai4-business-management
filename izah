@@ -1,0 +1,15 @@
+data base application that connects excel , google dock, and users with their teams
+every team should add their projects on their profile and add github profiles to app . ai should give to HR suggestions why this project is usefull for company and who will benefit from this project 
+The platform should take the following security elements into account:
+
+Role-based access control (RBAC)
+
+Data encryption (in-transit & at-rest)
+
+Secure authentication (MFA, OAuth, etc.)
+
+Audit logs and activity monitoring
+
+Compliance and data protection approach
+
+Risk and incident management mechanism
